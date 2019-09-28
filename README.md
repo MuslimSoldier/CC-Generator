@@ -1,6 +1,6 @@
 # CC Generator
 
-# It is a beautiful CC (Credit Card) Generator Developed by Abdulmunim Jundurahman.
+# It is a beautiful CC (Credit Card) Generator.
 
 
 # Description: 
